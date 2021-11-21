@@ -1,0 +1,307 @@
+{"message":"Server starting at /Users/paulinatsirlin/local-mysite2","level":"info","timest{"level":"warn","name":"FetchError","type":"system","errno":"ENOTFOUND","code":"ENOTFOUND","timestamp":"2020-07-08T20:48:04.349Z"}
+{"level":"warn","name":"FetchError","type":"system","errno":"ENOTFOUND","code":"ENOTFOUND","timestamp":"2020-07-14T07:13:36.347Z"}
+"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-06T18:57:14.050Z"}
+{"message":"Socket event GET_STATUS received","level":"info","timestamp":"2020-07-06T18:57:14.068Z"}
+{"message":"Socket event GET_STATUS handled succesfully","level":"info","timestamp":"2020-07-06T18:57:14.069Z"}
+{"message":"opening editor for [https://www.wix.com/editor/1e4fef0c-1e25-435e-b575-da4441d5c20a?experimentsoff=se_excludeLocalModeBolt&petri_ovr=specs.ExcludeSiteFromSsr=true&corvidSessionId=93014c60-a5a1-4dc2-bd3a-4ad6e005dc34&localServerPort=5000&x-wix-bi-context=eyJidWlsZGVyRW52IjoibG9jYWwiLCJpc0hlYWRsZXNzIjpmYWxzZX0=]","level":"info","timestamp":"2020-07-06T18:57:14.070Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T18:57:19.735Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T18:57:19.735Z"}
+{"message":"Socket event HANDSHAKE received","level":"info","timestamp":"2020-07-06T18:57:19.755Z"}
+{"message":"Socket event HANDSHAKE handled succesfully","level":"info","timestamp":"2020-07-06T18:57:19.755Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2020-07-06T18:57:19.757Z"}
+{"message":"Socket event IS_CLONE_MODE handled succesfully","level":"info","timestamp":"2020-07-06T18:57:19.758Z"}
+{"message":"Socket event GET_DOCUMENT received","level":"info","timestamp":"2020-07-06T18:57:19.763Z"}
+{"message":"getSiteDocument started","level":"info","timestamp":"2020-07-06T18:57:19.764Z"}
+{"message":"getSiteDocument finished","level":"info","timestamp":"2020-07-06T18:57:19.782Z"}
+{"message":"Socket event GET_DOCUMENT handled succesfully","level":"info","timestamp":"2020-07-06T18:57:19.785Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2020-07-06T18:57:25.319Z"}
+{"message":"Socket event IS_CLONE_MODE handled succesfully","level":"info","timestamp":"2020-07-06T18:57:25.320Z"}
+{"message":"Socket event GET_CODE received","level":"info","timestamp":"2020-07-06T18:57:25.496Z"}
+{"message":"getCodeFiles started","level":"info","timestamp":"2020-07-06T18:57:25.497Z"}
+{"message":"getCodeFiles finished","level":"info","timestamp":"2020-07-06T18:57:25.512Z"}
+{"message":"Socket event GET_CODE handled succesfully","level":"info","timestamp":"2020-07-06T18:57:25.513Z"}
+{"message":"Socket event UPDATE_DOCUMENT received","level":"info","timestamp":"2020-07-06T18:57:36.951Z"}
+{"message":" started","level":"info","timestamp":"2020-07-06T18:57:36.952Z"}
+{"message":"Backing up site","level":"info","timestamp":"2020-07-06T18:57:36.952Z"}
+{"message":"Socket event UPDATE_CODE received","level":"info","timestamp":"2020-07-06T18:57:36.956Z"}
+{"message":"Backing up site complete","level":"info","timestamp":"2020-07-06T18:57:37.063Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE received","level":"info","timestamp":"2020-07-06T18:57:37.111Z"}
+{"message":"Deleting backup","level":"info","timestamp":"2020-07-06T18:57:37.113Z"}
+{"message":"Deleting backup complete","level":"info","timestamp":"2020-07-06T18:57:37.128Z"}
+{"message":" finished","level":"info","timestamp":"2020-07-06T18:57:37.128Z"}
+{"message":"updateCode started","level":"info","timestamp":"2020-07-06T18:57:37.128Z"}
+{"message":"Socket event UPDATE_DOCUMENT handled succesfully","level":"info","timestamp":"2020-07-06T18:57:37.129Z"}
+{"message":"updateCode finished","level":"info","timestamp":"2020-07-06T18:57:37.152Z"}
+{"message":"updateCodeIntelligence started","level":"info","timestamp":"2020-07-06T18:57:37.153Z"}
+{"message":"Socket event UPDATE_CODE handled succesfully","level":"info","timestamp":"2020-07-06T18:57:37.154Z"}
+{"message":"updateCodeIntelligence finished","level":"info","timestamp":"2020-07-06T18:57:37.179Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE handled succesfully","level":"info","timestamp":"2020-07-06T18:57:37.179Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-06T19:32:35.885Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-06T19:32:37.389Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-06T19:52:27.610Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T19:52:27.610Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-06T19:52:28.706Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T19:52:29.646Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T19:52:29.647Z"}
+{"message":"Socket event UPDATE_DOCUMENT received","level":"info","timestamp":"2020-07-06T19:54:12.376Z"}
+{"message":" started","level":"info","timestamp":"2020-07-06T19:54:12.376Z"}
+{"message":"Backing up site","level":"info","timestamp":"2020-07-06T19:54:12.377Z"}
+{"message":"Socket event UPDATE_CODE received","level":"info","timestamp":"2020-07-06T19:54:12.378Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE received","level":"info","timestamp":"2020-07-06T19:54:12.379Z"}
+{"message":"Backing up site complete","level":"info","timestamp":"2020-07-06T19:54:12.470Z"}
+{"message":"Deleting backup","level":"info","timestamp":"2020-07-06T19:54:12.500Z"}
+{"message":"Deleting backup complete","level":"info","timestamp":"2020-07-06T19:54:12.511Z"}
+{"message":" finished","level":"info","timestamp":"2020-07-06T19:54:12.511Z"}
+{"message":"updateCode started","level":"info","timestamp":"2020-07-06T19:54:12.511Z"}
+{"message":"Socket event UPDATE_DOCUMENT handled succesfully","level":"info","timestamp":"2020-07-06T19:54:12.512Z"}
+{"message":"updateCode finished","level":"info","timestamp":"2020-07-06T19:54:12.522Z"}
+{"message":"updateCodeIntelligence started","level":"info","timestamp":"2020-07-06T19:54:12.522Z"}
+{"message":"Socket event UPDATE_CODE handled succesfully","level":"info","timestamp":"2020-07-06T19:54:12.523Z"}
+{"message":"updateCodeIntelligence finished","level":"info","timestamp":"2020-07-06T19:54:12.537Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE handled succesfully","level":"info","timestamp":"2020-07-06T19:54:12.538Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T20:13:10.164Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T20:13:12.029Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T20:13:12.030Z"}
+{"message":"Socket event UPDATE_DOCUMENT received","level":"info","timestamp":"2020-07-06T20:14:48.364Z"}
+{"message":" started","level":"info","timestamp":"2020-07-06T20:14:48.365Z"}
+{"message":"Backing up site","level":"info","timestamp":"2020-07-06T20:14:48.365Z"}
+{"message":"Socket event UPDATE_CODE received","level":"info","timestamp":"2020-07-06T20:14:48.367Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE received","level":"info","timestamp":"2020-07-06T20:14:48.368Z"}
+{"message":"Backing up site complete","level":"info","timestamp":"2020-07-06T20:14:48.511Z"}
+{"message":"Deleting backup","level":"info","timestamp":"2020-07-06T20:14:48.557Z"}
+{"message":"Deleting backup complete","level":"info","timestamp":"2020-07-06T20:14:48.571Z"}
+{"message":" finished","level":"info","timestamp":"2020-07-06T20:14:48.571Z"}
+{"message":"updateCode started","level":"info","timestamp":"2020-07-06T20:14:48.572Z"}
+{"message":"Socket event UPDATE_DOCUMENT handled succesfully","level":"info","timestamp":"2020-07-06T20:14:48.572Z"}
+{"message":"updateCode finished","level":"info","timestamp":"2020-07-06T20:14:48.588Z"}
+{"message":"updateCodeIntelligence started","level":"info","timestamp":"2020-07-06T20:14:48.588Z"}
+{"message":"Socket event UPDATE_CODE handled succesfully","level":"info","timestamp":"2020-07-06T20:14:48.589Z"}
+{"message":"updateCodeIntelligence finished","level":"info","timestamp":"2020-07-06T20:14:48.605Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE handled succesfully","level":"info","timestamp":"2020-07-06T20:14:48.605Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-06T20:59:20.885Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T20:59:20.886Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T20:59:21.902Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T20:59:21.902Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-06T20:59:22.372Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T21:00:45.865Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-06T21:00:45.866Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-06T21:00:46.844Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T21:00:47.648Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T21:00:47.649Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T21:42:55.830Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T21:42:57.645Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T21:42:57.645Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-06T21:59:05.014Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T21:59:05.015Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-06T21:59:05.725Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T21:59:06.539Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T21:59:06.539Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-06T22:13:38.227Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T22:13:38.228Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T22:13:39.429Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T22:13:39.430Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-06T22:13:39.716Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T22:48:03.812Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T22:48:04.986Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T22:48:04.987Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-06T23:56:51.402Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-06T23:56:53.334Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-06T23:56:53.335Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-07T06:23:10.730Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-07T06:23:10.731Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-07T06:23:11.327Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-07T06:23:12.289Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-07T06:23:12.290Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-07T07:00:43.208Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-07T07:00:44.537Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-07T07:00:44.538Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-07T12:29:08.812Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-07T12:29:10.450Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-07T12:29:10.452Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-07T16:19:48.931Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-07T16:19:50.677Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-07T16:19:50.678Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-07T18:29:08.987Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-07T18:29:10.864Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-07T18:29:10.864Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-07T19:05:37.285Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-07T19:05:37.286Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-07T19:05:38.258Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-07T19:05:39.333Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-07T19:05:39.333Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-07T20:29:50.810Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-07T20:29:51.915Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-07T20:38:22.128Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-07T20:38:22.129Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-07T20:38:22.722Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-07T20:38:24.088Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-07T20:38:24.088Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T00:34:44.734Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T00:34:44.743Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T00:34:46.109Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T00:34:46.502Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T00:34:46.502Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T01:08:05.715Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T01:08:06.792Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T01:08:06.792Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T02:33:02.694Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T02:33:05.061Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T02:33:05.061Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T03:57:55.275Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T03:57:57.249Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T03:57:57.249Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T05:24:53.613Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T05:24:54.426Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T06:18:13.733Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T06:18:16.240Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T06:50:17.650Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T06:50:17.658Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T06:50:19.094Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T06:50:19.095Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T06:50:19.150Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T08:16:49.306Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T08:16:50.677Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T08:20:15.435Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T08:20:17.485Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T08:20:17.487Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T08:35:32.545Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T08:35:32.546Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T08:35:33.552Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T08:35:34.627Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T08:35:34.628Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T08:58:50.738Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T08:58:53.312Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T08:58:53.312Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T13:25:25.870Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T13:25:25.873Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T13:25:26.958Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T13:25:27.418Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T13:25:27.419Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T15:00:44.333Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T15:00:44.690Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T15:00:46.089Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T15:00:46.507Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T15:00:46.507Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T15:10:30.368Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T15:10:32.175Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T15:10:32.175Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T15:29:15.513Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T15:29:16.352Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T15:56:58.128Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T15:56:58.892Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T16:14:45.246Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T16:14:47.636Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T16:14:47.636Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T16:48:26.135Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T16:48:26.138Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T16:48:27.335Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T16:48:27.973Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T16:48:27.974Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T17:44:40.098Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T17:44:40.100Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T17:44:41.162Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T17:44:42.107Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T17:44:42.107Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T18:13:10.376Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T18:13:10.377Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T18:13:11.645Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T18:13:12.056Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T18:13:12.057Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T18:38:26.163Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T18:38:26.164Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T18:38:26.854Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T18:38:27.944Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T18:38:27.944Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T18:44:27.591Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T18:44:29.611Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T18:44:29.612Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T18:50:48.482Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T18:50:50.921Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T18:50:50.921Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T19:27:48.677Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T19:27:48.678Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T19:27:50.430Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T19:27:51.104Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T19:27:51.105Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T20:20:11.325Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T20:20:11.328Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T20:20:12.141Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T20:20:12.669Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T20:20:12.669Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T20:23:50.957Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T20:23:52.347Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T20:36:08.011Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T20:36:09.554Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T20:36:09.554Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-08T20:48:04.312Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T20:48:04.314Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-08T20:48:05.569Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T20:48:05.639Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T20:48:05.640Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T22:24:47.971Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T22:24:50.048Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T22:24:50.048Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-08T23:10:15.261Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-08T23:10:16.874Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-08T23:10:16.875Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T01:13:03.935Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T01:13:04.635Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-09T02:19:22.822Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-09T02:19:23.882Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-09T02:19:23.883Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T03:04:56.719Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T03:04:58.099Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-09T04:53:18.736Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-09T04:53:20.382Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-09T04:53:20.382Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T08:59:55.954Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T08:59:56.780Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-09T09:48:25.192Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-09T09:48:27.422Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-09T09:48:27.422Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T10:03:53.412Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T10:03:54.629Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T10:24:21.597Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T10:24:23.172Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T10:29:23.087Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T10:29:24.726Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-09T10:38:49.218Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-09T10:38:50.313Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-09T10:38:50.313Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T17:23:40.083Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-09T17:23:40.106Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T17:23:41.049Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-09T17:23:43.358Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-09T17:23:43.362Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T19:57:53.404Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-09T19:57:53.414Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T19:57:54.690Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-09T19:57:55.238Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-09T19:57:55.241Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-09T19:58:44.372Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-09T19:58:44.436Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-09T19:58:45.558Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-09T20:00:21.321Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-09T20:00:21.322Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-10T00:24:08.501Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-10T00:24:08.529Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-10T00:24:10.229Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-10T00:25:00.016Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-10T00:25:01.652Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-10T00:25:01.843Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-10T00:25:01.845Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-10T12:11:43.026Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-10T12:11:43.755Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-11T19:53:34.074Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-11T19:53:34.094Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-11T19:53:34.788Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-11T19:54:29.614Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-11T19:54:30.751Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-11T19:56:06.849Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-11T19:56:06.849Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2020-07-14T00:50:57.058Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2020-07-14T00:50:57.071Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2020-07-14T00:50:58.609Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2020-07-14T00:51:24.484Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2020-07-14T00:51:24.484Z"}

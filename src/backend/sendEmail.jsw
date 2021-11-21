@@ -1,0 +1,63 @@
+import sgMail from "@sendgrid/mail";
+import { getSecret } from 'wix-secrets-backend';
+import wixData from 'wix-data';
+
+// example sendEmail function from: https://github.com/sendgrid/sendgrid-nodejs/tree/master/packages/mail
+
+//recipient, subject, sender, body
+export async function sendDailyEmail() {
+	const apiKey = await getSecret('EmailKeys');
+
+	sgMail.setApiKey(apiKey);
+	const msg = {
+		to: 'paulinat@wix.com',
+		from: 'paulinat@wix.com',
+		subject: 'promotion',
+		text: 'Book your appointment and get 15% off today',
+	};
+	sgMail.send(msg);
+
+	/**let toInsert = {
+		"Title": "Test property",
+		"Description": "test test",
+		"City": "Moscow"
+	};
+
+	wixData.insert("Apartments", toInsert)
+		.then((results) => {
+			let item = results; //see item belo
+		})
+		.catch((err) => {
+			let errorMsg = err;
+		});**/
+}
+
+export async function sendToEmailAddress(email) {
+	const apiKey = await getSecret('EmailKeys');
+
+	sgMail.setApiKey(apiKey);
+	const msg = {
+		to: email,
+		from: 'paulinat@wix.com',
+		subject: 'promotion',
+		text: 'Book your appointment and get 30% off today',
+	};
+	sgMail.send(msg);
+
+	let toInsert = {
+		"Title": "Test2 property",
+		"Description": "test test",
+		"City": "NYC"
+	};
+
+	wixData.insert("Apartments", toInsert)
+		.then((results) => {
+			let item = results; //see item belo
+		})
+		.catch((err) => {
+			let errorMsg = err;
+		});
+}
+
+
+
