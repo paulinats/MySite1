@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/conf
+/.idea
+
 
 # logs
 npm-debug.log*
