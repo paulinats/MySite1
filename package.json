@@ -8,5 +8,8 @@
   },
   "scripts": {
     "start": "velo-cli open-ediotr",
+  },
+  "velo": {
+    "siteId": "msid"
   }
 }
