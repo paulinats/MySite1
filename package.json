@@ -7,7 +7,8 @@
     "velo-types": "^0.1.100"
   },
   "scripts": {
-    "start": "velo-cli open-ediotr"
+    "pull-online-changes": "pull-online-changes --watch",
+    "open-preview": "npx velo open-preview",
   },
   "velo": {
     "siteId": "msid"
