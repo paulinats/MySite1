@@ -7,7 +7,7 @@
     "velo-types": "^0.1.100"
   },
   "scripts": {
-    "start": "velo-cli open-ediotr",
+    "start": "velo-cli open-ediotr"
   },
   "velo": {
     "siteId": "msid"
